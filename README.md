@@ -13,6 +13,7 @@ This project performs sentiment analysis on text data (IMDb movie reviews) using
 - Naive Bayes
 - Streamlit Web App for UI
 - Confusion Matrix for evaluation
+- Accuracy:85%
 
 ---
 
