@@ -1,6 +1,6 @@
 # 📊 Sentiment Analysis Web App (NLP + Machine Learning)
 
-An end-to-end **Natural Language Processing (NLP) project** that classifies movie reviews as **Positive or Negative** using Machine Learning and provides a real-time interactive web interface using Streamlit.
+An end-to-end **Natural Language Processing (NLP) project** that classifies reviews as **Positive or Negative** using Machine Learning and provides a real-time interactive web interface using Streamlit.
 
 ---
 
@@ -8,7 +8,7 @@ An end-to-end **Natural Language Processing (NLP) project** that classifies movi
 
 ## 📌 Project Overview
 
-This project performs sentiment analysis on text data (IMDb movie reviews) using:
+This project performs sentiment analysis on text data (IMDb reviews) using:
 - TF-IDF Vectorization
 - Naive Bayes
 - Streamlit Web App for UI
